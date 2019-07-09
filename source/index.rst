@@ -36,7 +36,7 @@ Table of contents:
    :maxdepth: 3
 
    Pages/grid_storage
-   .. Pages/getting_help
+   Pages/getting_help
 
 
 
