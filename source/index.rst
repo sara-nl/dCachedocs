@@ -26,15 +26,16 @@
 dCache User Guide
 *****************
 
-Welcome to the dCache user guide!
+Welcome to the dCache user guide! In this documentation we will talk about the
+dCache implementation at `SURFsara`_, the tools and best practices to interact with it.
+
 
 Table of contents:
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
+   :maxdepth: 3
 
-   .. Pages/about
+   Pages/grid_storage
    .. Pages/getting_help
 
 
